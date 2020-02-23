@@ -125,14 +125,14 @@ body {
   overflow: auto;
   margin: auto;
 }
-.T {
+/* .T {
   font-size: 34px;
   margin: 0 0 30px;
   height: 170px;
   line-height: 260px;
   overflow: hidden;
   background:url(./assets/logo.png) center no-repeat;
-}
+} */
 .toolbar {
   margin: 20px auto;
 }

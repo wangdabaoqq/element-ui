@@ -1,1 +1,2 @@
-# element-ui-
+# element-ui 源码解析
+> 起初查看element源码是因为在进行业务开发时, 有一些element的组件不太明白一些属性或者方法在内部是怎么实现的。
